@@ -1,4 +1,3 @@
- HEAD
 # devops-tp-docker--Ledoigt-
 
 ![Build and Scan](https://github.com/[username]/devops-tp-docker-
