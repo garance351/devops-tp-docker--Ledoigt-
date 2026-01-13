@@ -10,18 +10,8 @@
 =======
 # devops-tp-docker
 
+<<<<<<< HEAD
 TP Docker – DevOps  
 Auteur : Garance 
+b897b0e (Save local changes before pull/rebase)
 
-## Description
-Projet réalisé dans le cadre du TP Docker.
-
-## Prérequis
-- Docker
-- Docker Compose (si utilisé)
-
-## Lancement
-```bash
-docker build -t devops-tp .
-docker run devops-tp
-ad70703 (Ajout du README)
