@@ -11,7 +11,7 @@
 # devops-tp-docker
 
 TP Docker – DevOps  
-Auteur : Garance Ledoigt
+Auteur : Garance 
 
 ## Description
 Projet réalisé dans le cadre du TP Docker.
