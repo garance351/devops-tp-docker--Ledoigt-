@@ -1,4 +1,5 @@
 # devops-tp-docker--Ledoigt-
+<<<<<<< HEAD
 
 ![Build and Scan](https://github.com/[username]/devops-tp-docker-
 [nom]/actions/workflows/docker-deploy.yml/badge.svg)
@@ -33,3 +34,13 @@ docker run -p 8080:8080 ghcr.io/[username]/devops-tp-docker-[nom]:main
 
 
 
+=======
+# PROJET-API-CryptoPython_garance
+# PROJET-API-CryptoPython_garance
+# PROJET-API-CryptoPython_garance
+# PROJET-API-CryptoPython_garance
+# PROJET-API-CryptoPython_garance
+# PROJET-API-CryptoPython1_garance
+# PROJET-API-CryptoPython1_garance
+# PROJET-API-CryptoPython1_garance
+>>>>>>> 94e5edd (first commit)
