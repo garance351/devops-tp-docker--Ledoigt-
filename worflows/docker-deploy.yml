@@ -18,6 +18,12 @@ packages: write
 steps:
 - name: Checkout code
 uses: actions/checkout@v3
+
+- name: Run app container
+  run: |
+        docker build -t vuln-app .
+        docker run -d -p 3000:3000 --name app vuln-app
+        sleep 10
 - name: Set up Docker Buildx
 uses: docker/setup-buildx-action@v2
 - name: Log in to Container Registry
